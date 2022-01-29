@@ -37,7 +37,7 @@ stock bool:DONE_FALSE = false;
 
 #define for%8\10;%9 for (new %8)REMOVE_ME:(%8)
 #define do%8\10;%9 {%8
-#define done%8\10;%9 }%8
+#define end%8\10;%9 }%8
 
 // 
 //   for i in {0 .. 10}
